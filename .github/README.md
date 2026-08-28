@@ -53,7 +53,7 @@
 
 其中每一个命令都经过**精心调校**,与默认设置相比,能充分发挥游戏的潜力。
 
-![ArminC AutoExec Code](https://raw.githubusercontent.com/Leeanran2026/ArminC-AutoExec-CN/main/arminc_autoexec_code.png)
+![ArminC AutoExec Code(汉化)](https://raw.githubusercontent.com/Leeanran2026/ArminC-AutoExec-CN/main/arminc_autoexec_code_cn.png)
 <p align="right">
 <sub>(预览)</sub>
 </p>
