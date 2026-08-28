@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Leeanran2026/ArminC-AutoExec-CN/archive/refs/heads/main.zip"><img src="arminc_autoexec.svg" alt="ArminC AutoExec 简体中文版"></a>
+  <a href="https://github.com/Leeanran2026/ArminC-AutoExec-CN/archive/refs/heads/main.zip"><img src="https://raw.githubusercontent.com/Leeanran2026/ArminC-AutoExec-CN/main/arminc_autoexec.svg" alt="ArminC AutoExec 简体中文版"></a>
 </h1>
 
 <h4 align="center">为玩家打造的高质量 Counter-Strike 2 配置 · 简体中文版</h4>
@@ -53,7 +53,7 @@
 
 其中每一个命令都经过**精心调校**,与默认设置相比,能充分发挥游戏的潜力。
 
-![ArminC AutoExec Code](arminc_autoexec_code.png)
+![ArminC AutoExec Code](https://raw.githubusercontent.com/Leeanran2026/ArminC-AutoExec-CN/main/arminc_autoexec_code.png)
 <p align="right">
 <sub>(预览)</sub>
 </p>
@@ -119,7 +119,7 @@
      \/
 
 ## 键位绑定
-![ArminC AutoExec 键位绑定表(中文)](arminc_autoexec_binds_cn.png)
+![ArminC AutoExec 键位绑定表(中文)](https://raw.githubusercontent.com/Leeanran2026/ArminC-AutoExec-CN/main/arminc_autoexec_binds_cn.png)
 
 ## Wiki
 
