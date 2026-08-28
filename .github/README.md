@@ -119,7 +119,7 @@
      \/
 
 ## 键位绑定
-![ArminC AutoExec 键位绑定表(中文)](https://raw.githubusercontent.com/Leeanran2026/ArminC-AutoExec-CN/main/arminc_autoexec_binds_cn.png)
+![ArminC AutoExec 键位绑定表(中文)](https://raw.githubusercontent.com/Leeanran2026/ArminC-AutoExec-CN/main/arminc_autoexec_binds_cn_v2.png)
 
 ## Wiki
 
